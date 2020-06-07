@@ -1,9 +1,24 @@
-# tasbih
+# Tasbih
 
-A new Flutter application.
+Tasbih Counter written in Flutter, with Minimal looks and very simple to use.
 
-## Getting Started
+## Design is Actually by Shuaib Afegabua
+ I modified as per my requirements.
+ 
+# HERE is His Medium Link
 
+- [Beautiful List UI and Detail page](https://proandroiddev.com/flutter-thursday-02-beautiful-list-ui-and-detail-page-a9245f5ceaf0)
+
+- [Medium Profile Link](https://proandroiddev.com/@afegbua)
+
+## ScreenShots
+ ![ScreenShot](https://i.imgur.com/7soHG2o.jpg)
+ 
+ #Download
+ First Build v1.0 - [HERE](https://github.com/rashedsahaji/tasbih/releases)
+
+
+## About Flutter
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
