@@ -14,7 +14,7 @@ Tasbih Counter written in Flutter, with Minimal looks and very simple to use.
 ## ScreenShots
  ![ScreenShot](https://i.imgur.com/7soHG2o.jpg)
  
- #Download
+ ## Download
  First Build v1.0 - [HERE](https://github.com/rashedsahaji/tasbih/releases)
 
 
